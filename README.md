@@ -1,4 +1,4 @@
 encoding-handler
 ================
 
-Salesforce's Apex encoding handler class for base64
+ Base64 encoding handler class for Salesforce's Apex.
